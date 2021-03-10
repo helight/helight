@@ -3,6 +3,7 @@
 🔭 I’m currently working on k8s/isito/...
 
 📫 微信公众号: 黑光技术
+<img align="center" src="http://www.helight.info/img/site/mp.jpg" />
 
 ![](https://github-readme-stats.vercel.app/api?username=helight&show_icons=true&theme=radical)
 
